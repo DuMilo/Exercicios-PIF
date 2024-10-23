@@ -7,7 +7,7 @@
 
 <div style="display: flex; justify-content: space-between; align-items: flex-start;">
   <div style="flex: 1; padding-right: 20px;">
-    <h4>PIF, ou Programação Imperativa e Funcional, é uma das cadeiras do curso de ADS da CESAR School, na qual incluem as linguagens C e Haskell.</h4>
+    <h4>PIF, ou Programação Imperativa e Funcional, é uma das cadeiras do curso de ADS da CESAR School, na qual inclue as linguagens C e Haskell.</h4>
     <h4>Lista de Exercícios 1</h4>
     <ul>
       <li>Notas de Moedas</li>
