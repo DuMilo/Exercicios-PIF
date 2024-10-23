@@ -39,7 +39,6 @@
       <li>Maior Produto de Três Números Usando Ponteiros</li>
       <li>Operações Matemáticas com Dois Números Usando Ponteiros</li>
     </ul>
-
     <h4>Lista de Exercícios 6</h4>
     <ul>
       <li>Redimensionamento Dinâmico de Sequência</li>
