@@ -33,6 +33,19 @@
       <li>Gerenciamento de Corrida de Carros</li>
       <li>Biblioteca de Livros</li>
     </ul>
+    <h4>Lista de Exercícios 5</h4>
+    <ul>
+      <li>Soma e Diferença de N Números Usando Ponteiros</li>
+      <li>Maior Produto de Três Números Usando Ponteiros</li>
+      <li>Operações Matemáticas com Dois Números Usando Ponteiros</li>
+    </ul>
+
+    <h4>Lista de Exercícios 6</h4>
+    <ul>
+      <li>Redimensionamento Dinâmico de Sequência</li>
+      <li>Soma de Elementos (Uso de Funções, malloc e realloc)</li>
+      <li>Sistema de Gerenciamento de Estudantes</li>
+    </ul>
   </div>
 
 </div>
