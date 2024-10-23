@@ -26,6 +26,13 @@
       <li>Soma de Fatoriais</li>
       <li>Funções</li>
     </ul>
+    </ul>
+    <h4>Lista de Exercícios 4</h4>
+    <ul>
+      <li>Seleção de Candidatos</li>
+      <li>Gerenciamento de Corrida de Carros</li>
+      <li>Biblioteca de Livros</li>
+    </ul>
   </div>
 
 </div>
