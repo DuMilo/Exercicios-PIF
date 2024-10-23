@@ -2,7 +2,7 @@
   <h1><mark>Boas vindas ao meu repositório de PIF!</mark></h3>
 </div>
   <div>
-    <img src="https://media.discordapp.net/attachments/1219420812868718714/1298487119622311997/639c781ccce6e5130fb1ee9c7d672efe.gif?ex=6719bdde&is=67186c5e&hm=546375caef82a5844d513833950764b2702feef4a39d919ebc9d498365f89277&=&format=gif&width=400&height=250" alt="Imagem" style="width: 470px; height: 300px;" align="right">
+    <img src="https://media.discordapp.net/attachments/1219420812868718714/1298487119622311997/639c781ccce6e5130fb1ee9c7d672efe.gif?ex=6719bdde&is=67186c5e&hm=546375caef82a5844d513833950764b2702feef4a39d919ebc9d498365f89277&=&format=gif&width=400&height=250" alt="Imagem" style="width: 450px; height: 300px;" align="right">
   </div>
 
 <div style="display: flex; justify-content: space-between; align-items: flex-start;">
